@@ -11,8 +11,12 @@
   outline: 1px solid #888888;
 }
 
+.button-wrapper:hover {
+  cursor: pointer;
+}
+
 .operator {
-  background: #fe9241;
+  background: #b22222;
   color: #ffffff;
 }
 
@@ -27,4 +31,8 @@
   color: #000000;
   outline: 1px solid #888888;
   flex: 1;
+}
+
+.clear-btn:hover {
+  cursor: pointer;
 }
