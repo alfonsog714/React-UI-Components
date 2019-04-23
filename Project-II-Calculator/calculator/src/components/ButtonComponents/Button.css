@@ -1,0 +1,30 @@
+.button-wrapper {
+  height: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: lighter;
+  font-size: 1.4rem;
+  background: #e0e1e6;
+  color: #888888;
+  flex: 1;
+  outline: 1px solid #888888;
+}
+
+.operator {
+  background: #fe9241;
+  color: #ffffff;
+}
+
+.clear-btn {
+  height: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: lighter;
+  font-size: 1.4rem;
+  background: #e0e1e6;
+  color: #000000;
+  outline: 1px solid #888888;
+  flex: 1;
+}
