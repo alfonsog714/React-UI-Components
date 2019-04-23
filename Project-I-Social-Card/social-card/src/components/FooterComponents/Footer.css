@@ -1,0 +1,13 @@
+.footer {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: flex-start;
+  /* border: 1px solid red; */
+  width: 75%;
+  margin-right: 30px;
+  padding: 0.5rem;
+}
+
+.fas {
+  margin-right: 50px;
+}
